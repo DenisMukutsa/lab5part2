@@ -1,5 +1,6 @@
 package lab5_part2;
 
+
 public interface Functional {
 
     default double square1 (double intervalX, double intervalY, int parts) {
